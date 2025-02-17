@@ -1,0 +1,16 @@
+{
+  "distributions": [
+    {
+      "name": "Ubuntu 20.04",
+      "url": "https://cloud-images.ubuntu.com/releases/20.04/release/ubuntu-20.04-server-cloudimg-amd64.img"
+    },
+    {
+      "name": "CentOS 8",
+      "url": "https://cloud.centos.org/centos/8/x86_64/images/centos-8-x86_64-20210201-cloud.qcow2"
+    },
+    {
+      "name": "Debian 10",
+      "url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.7.0-amd64-netinst.iso"
+    }
+  ]
+}
